@@ -165,9 +165,9 @@ View Reports
 - Monitor system performance
 
 🔟 Workflow Summary
-Employee Submit → 
-If amount ≤ limit → Finance → Payment → Completed
-If amount > limit → Admin Approval → Finance → Payment → Completed
+Employee Submit
+- If amount ≤ limit → Finance → Payment → Completed
+- If amount > limit → Admin Approval → Finance → Payment → Completed
 
 1️⃣1️⃣ DevOps & Low-Code Concept Explanation (For Assignment)
 🔹 Low-Code Implementation
@@ -187,11 +187,11 @@ No heavy programming required.
 
 🎯 Conclusion
 The Smart Expense Reimbursement System successfully:
-✔ Eliminates manual paperwork
-✔ Reduces processing delays
-✔ Minimizes human error
-✔ Provides transparency
-✔ Improves reporting accuracy
-✔ Increases operational efficiency
+- Eliminates manual paperwork
+- Reduces processing delays
+- Minimizes human error
+- Provides transparency
+- Improves reporting accuracy
+- Increases operational efficiency
 
 This project demonstrates how low-code platforms like Joget DX can modernize traditional business processes effectively.
