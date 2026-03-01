@@ -62,7 +62,7 @@ Choose:
 | Role         | Username | Password | Responsibilities                                                  |
 | ------------ | -------- | -------- | ----------------------------------------------------------------- |
 | Admin        | admin    | admin    | Approves high amount claims, sets approval limit, monitors system |
-| Finance Team | clark    | password | Reviews normal claims, processes payments                         |
+| Finance Team | clark    | password | processes payments                                                |
 | Employee     | cat      | password | Submit claims, upload receipts, check status                      |
 
 
