@@ -59,11 +59,11 @@ Choose:
 ✅ Improve operational efficiency
 
 5️⃣ System Roles & Responsibilities
-| Role         | Username | Password | Responsibilities                                                  |
-| ------------ | -------- | -------- | ----------------------------------------------------------------- |
-| Admin        | admin    | admin    | Approves high amount claims, sets approval limit, monitors system |
-| Finance Team | clark    | password | processes payments                                                |
-| Employee     | cat      | password | Submit claims, upload receipts, check status                      |
+| Role         | Username | Password | Responsibilities                                                        |
+| ------------ | -------- | -------- | ----------------------------------------------------------------------- |
+| Admin        | admin    | admin    | Approves claims, sets approval limit, monitors system, set expense type |
+| Finance Team | clark    | password | Processes payments                                                      |
+| Employee     | cat      | password | Submit claims, upload receipts, check status                            |
 
 
 6️⃣ Features Included
